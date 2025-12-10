@@ -9,7 +9,7 @@ dotenv.load_dotenv("./env")
 
 headers = {
     "User-Agent": env("USER_AGENT")
-}#test2
+}#test2 TEST
 
 def format_nations(nations):
     """
